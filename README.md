@@ -9,7 +9,7 @@ A simple Django-based news aggregator that fetches and displays the latest news 
 - Dynamic rendering of headlines with images
 - Responsive UI using Bootstrap
 - Lightweight and beginner-friendly codebase
-- 
+  
 ## Description
 News aggregator is a Django project to scrape a news website using Beautiful soup and request module and hence combination of web crawlers and web applications.
 Both of these technologies have their implementation in Python.
