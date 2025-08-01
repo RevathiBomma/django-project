@@ -69,7 +69,9 @@ python manage.py runserver
 
 ### Tech stack
 
-`Backend` : Python3,Beautiful soup <br>
+`Backend` : Python3,Django <br>
+`Libraries` : feedparser,requests <br>
 `Framework` : Django <br>
 `Database` : Sqlite3 <br>
-`Frontend` : Html,CSS,Bootstrap <br>
+`Frontend` : Html,CSS,Bootstrap,JavaScript <br>
+`Others` : Git,GitHub,VS code <br>
